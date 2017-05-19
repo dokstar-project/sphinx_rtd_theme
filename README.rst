@@ -8,10 +8,17 @@
 .. _node: http://www.nodejs.com
 .. _demo: http://docs.readthedocs.org
 .. _hidden: http://sphinx-doc.org/markup/toctree.html
+.. _dokstardemo: https://bootstrapping.dokstar.org/
 
-**************************
-Read the Docs Sphinx Theme
-**************************
+*************************************
+Modified "Read the Docs" Sphinx Theme
+*************************************
+
+A modified version of the theme, using Lora Google Font for text. It is a serif font, instead of the default sans-serif font.
+
+***********************
+Original README Content
+***********************
 
 .. contents:: 
 
